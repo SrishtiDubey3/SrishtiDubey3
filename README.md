@@ -1,7 +1,6 @@
 ## Hi, I'm Srishti 👋
-🌟 Passionate about building full-stack web apps, AI/ML systems, and solving real-world problems through code.<br><br>
-
-💼 Final Year BTech CSE Student<br>
+🌟 Passionate about building full-stack web apps, AI/ML systems, and solving real-world problems through code.<br>
+💼 Final Year BTech CSE Student<br><br>
 🔬 Currently working on:<br>
 🧠 JurisAI – A legal AI/ML system for smarter case law research<br>
 🧳 YatriSaarthi — A tour guide booking web app with city-based profile filtering<br><br>
