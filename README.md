@@ -3,11 +3,10 @@
 💼 Final Year BTech CSE Student<br><br>
 🔬 Currently working on:<br>
 🧠 JurisAI – A legal AI/ML system for smarter case law research<br>
-🧳 YatriSaarthi — A tour guide booking web app with city-based profile filtering<br><br>
 
 🔬 Have worked on on:<br>
-🎤 BidVoice – An AI-powered voice auction platform<br>
-🏨 Hotel Room Booking System
+🧳 YatriSaarthi — A tour guide booking web app with city-based profile filtering<br><br>  
+🏨 Hotel Room Booking System  
 🔢 Handwritten Digit Recognition — ML project with context-aware digit correction<br><br>
 
 ## 🌐 Socials:
