@@ -5,7 +5,7 @@
 🧠 JurisAI – A legal AI/ML system for smarter case law research<br>
 
 🔬 Have worked on on:<br>
-🧳 YatriSaarthi — A tour guide booking web app with city-based profile filtering<br><br>  
+🧳 YatriSaarthi — A tour guide booking web app with city-based profile filtering  
 🏨 Hotel Room Booking System  
 🔢 Handwritten Digit Recognition — ML project with context-aware digit correction<br><br>
 
